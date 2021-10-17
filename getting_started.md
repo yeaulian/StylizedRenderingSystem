@@ -4,6 +4,15 @@ title: Getting Started
 nav_order: 10
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Getting Started
 
 ## 1 - Setting your project up to work with SRS
@@ -13,6 +22,7 @@ nav_order: 10
 3. Select the project you want to add SRS to.
 4. Open up your project and open your project settings
 5. Under the Engine category in the Rendering Tab, set "Custom Depth-Stencil Pass" to "Enabled with Stencil".
+
 ![Image](assets/setting_up_stencil.png)
 
 ## 2 - Adding SRS to your scene
