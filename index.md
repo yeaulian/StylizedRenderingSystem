@@ -14,10 +14,7 @@
 ### 2 - Adding SRS to your scene
 
 1. Navigate to StylizedRenderingSystem/Blueprints your content browser.
-2. Drag the actor "BP_StylizedRenderingSystem" into your scene. This actor will allow you to control where SRS will take affect and how SRS will render your scene.
-
-![Image](assets/adding_srs.png)
-
+2. Drag the actor "BP_StylizedRenderingSystem" into your scene. This actor will allow you to control where SRS will take affect and how SRS will render your scene. ![Image](assets/adding_srs.png)
 3. Select the actors you want SRS to affect and enable "Render CustomDepth Pass" in the details panel
 4. If you want SRS to affect your entire scene, disable "Only On Custom Depth" in the details panel of the SRS actor you just dragged into your scene. 
 
