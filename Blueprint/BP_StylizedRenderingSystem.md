@@ -7,6 +7,7 @@ nav_order: 10
 
 # BP_StylizedRenderingSystem
 {: .no_toc }
+text
 
 <details open markdown="block">
   <summary>
