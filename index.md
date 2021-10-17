@@ -1,4 +1,4 @@
-## Welcome to the Stylized Rendering System Documentation
+## Stylized Rendering System Documentation
 
 You can use the [editor on GitHub](https://github.com/yeaulian/StylizedRenderingSystem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
