@@ -1,6 +1,6 @@
 # Stylized Rendering System Documentation
 
-## Quick Start
+# Quick Start
 
 ### 1 - Setting your project up to work with SRS
 
@@ -19,11 +19,11 @@
 ![Image](assets/adding_srs.png)
 
 3. Select the actors you want SRS to affect and enable "Render CustomDepth Pass" in the details panel
-4. If you want SRS to affect your entire scene, disable "Only On Custom Depth" in the details panel of the SDS actor you just dragged into your scene. 
+4. If you want SRS to affect your entire scene, disable "Only On Custom Depth" in the details panel of the SRS actor you just dragged into your scene. 
 
 ### 3 - Setting up your Materials to work with SRS
 
-## Materials and SRS
+# Materials and SRS
 
 ### SRS_MaterialAttributes
 
