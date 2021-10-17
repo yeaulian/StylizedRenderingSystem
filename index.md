@@ -9,7 +9,7 @@
 3. Select the project you want to add SRS to.
 4. Open up your project and open your project settings
 5. Under rendering, set "Custom Depth-Stencil Pass" to Enabled with Stencil.
-![Image](stylizedrenderingsystem/assets/setting_up_stencil.png)
+![Image](assets/setting_up_stencil.png)
 
 ## Materials and SRS
 
