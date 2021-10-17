@@ -1,3 +1,5 @@
+logo: "/assets/images/srs_logo.png"
+
 # Stylized Rendering System Documentation
 
 # Quick Start
