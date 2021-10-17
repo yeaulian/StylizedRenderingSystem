@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blueprints
-nav_order: 10
+nav_order: 30
 ---
 
 # Blueprints
