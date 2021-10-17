@@ -8,49 +8,33 @@
 2. Find 'Stylized Rendering System' in your Vault and click add to project.
 3. Select the project you want to add SRS to.
 
-
-
-j
-
-j
-k
-k
-k
 ## Materials and SRS
 
-
-jhg
-
-iuhiuh
 ### SRS_MaterialAttributes
-k
-k
-k
-khikjhgiuh
-k
-k
+
 ### SRS_AttributeConverter
-k
-k
-k
-jhgijhgi
-k
-k
-k
-oikujhiujhi
+
 
 ## BP_StylizedRenderingSystem
-k
-k
-k
-k
-k
-k
-k
-k
-k
-k
-k
-k
-k
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
+## BP_CelShadedLightColorManager
+
 ## BP_CelShadedLightColorManager
