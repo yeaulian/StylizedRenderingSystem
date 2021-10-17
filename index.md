@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Stylized Rendering System allows you to easily create the perfect art style for your projects."
+permalink: /
+---
+
 # Stylized Rendering System Documentation
 
 # Quick Start
