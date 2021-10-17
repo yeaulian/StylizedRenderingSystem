@@ -5,6 +5,7 @@ nav_order: 10
 ---
 
 # Getting Started
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
