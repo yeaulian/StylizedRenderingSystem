@@ -5,6 +5,8 @@ nav_order: 10
 ---
 
 # Getting Started
+In the following, you are going to learn how to install SRS and setup your project so it works with SRS.
+
 {: .no_toc }
 
 <details open markdown="block">
