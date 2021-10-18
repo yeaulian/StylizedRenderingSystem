@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Stylized Rendering System allows you to easily create the perfect art style for your projects."
+description: "Stylized Rendering System allows you to easily create the perfect look for your stylized UE4 projects."
 permalink: /
 ---
 
 # Easily cel-shade your environments and characters in UE4
 {: .fs-9 }
 
-Stylized Rendering System allows you to easily create the perfect art style for your UE4 projects.
+Stylized Rendering System allows you to easily create the perfect look for your stylized UE4 projects.
 {: .fs-6 .fw-300 }
 
 [Get started now](getting_started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
