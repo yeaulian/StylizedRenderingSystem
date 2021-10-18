@@ -53,7 +53,7 @@ If you have previously created materials that you want to use in combination wit
 1. Open the material editor for a material you want to make compatible with SRS
 2. Add the SRS_MaterialAttributes node and connect the outputs to the inputs with the same name on the **Material Outputs** node.
 3. Add the SRS_AttributeConverter node and connect the outputs to the inputs with the same name on the **SRS_MaterialAttributes** node.
-4. If there were previous connections to the input pins of the **Material Outputs** node, connect those with the respective inputs on the two nodes that were just created.
+4. If there were previous connections to the input pins of the **Material Outputs** node, connect those to the respective inputs on the two nodes that were just created.
 5. If there is an Emissive Color Texture, connect that to the **SRS_MaterialAttributes** node as well.
 6. The final result should look similar to this:
 
