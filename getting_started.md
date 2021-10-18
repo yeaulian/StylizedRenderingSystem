@@ -19,7 +19,7 @@ In the following, you are going to learn how to install SRS and setup your proje
 
 ---
 
-##  Install and Setup
+##  Installation and Setup
 
 1. Open up the Epic Games Launcher, click on Unreal Engine and head to your Library.
 2. Find 'Stylized Rendering System' in your Vault and click add to project.
