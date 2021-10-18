@@ -60,3 +60,7 @@ If you have previously created materials that you want to use in combination wit
 ![Image](assets/converting_materials.png)
 
 ---
+
+## Setup for the cel-shaded lights mode
+
+The cel-shaded lights mode is an alternative way SRS can handle dynamic lights however it requires a more setup.
