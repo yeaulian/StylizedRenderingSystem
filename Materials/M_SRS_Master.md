@@ -41,7 +41,7 @@ Here you can adjust the scale of the highlight and rimlight in proportion to the
 
 Instead of using the sliders you may also set texture for each of the size scales if the corresponding switch is enabled.
 
-This category does not take affect if "Use Specular and Roughness Inputs" in [Conversion](#Conversion) is enabled.
+This category does not take affect if "Use Specular and Roughness Inputs" in [Conversion](#conversion) is enabled.
 
 ## Emissive Color
 Using the switch at the top of the  category you can switch between using a static color or using a texture for the material's emissive oclor.
