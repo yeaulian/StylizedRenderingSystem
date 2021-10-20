@@ -55,5 +55,12 @@ If you are using a texture you can select that texture and set a tint to modify 
 
 When using emissive color, be aware, that when the emissive color is brighter than black (0,0,0) the emissive parts of where the material is applied will no longer be able to receive colored lights and the shadows on the emissive parts will become smaller.
 
-# Conversion
+## Opacity Mask
+You can specify which parts of the mesh will be hidden by enabling the "Enable Opacity Mask" parameter and selecting a texture in the "Opacity Mask Texture" parameter.
+- 0 (black) for hidden parts
+- 1 (white) for visible parts
+
+If you are using a gradient instead of a black and white mask, and want to determine the threshold below which the material will turn invisible, head to the general category in the instance's detail panel and under Material Property Overrides, change the Opacity Mask Clip Value to your required value.
+
+## Conversion
 ---
