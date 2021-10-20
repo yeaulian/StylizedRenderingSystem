@@ -13,6 +13,8 @@ This master material can either directly control the materials rimlight and high
 
 As SRS is using a mainly post-process based approach to cel-shading, materials using this master material will only appear cel-shaded if they are in a scene with an enabled [SRS actor](../Blueprints/BP_StylizedRenderingSystem.md).
 
+Below, it will be explained what the parameters in each category of an instance of this material do.
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -21,6 +23,8 @@ As SRS is using a mainly post-process based approach to cel-shading, materials u
 1. TOC
 {:toc}
 </details>
+
+---
 
 ## Base Color
 Using the switch at the top of the  category you can switch between using a static color or using a texture for the material's base color.
@@ -31,8 +35,8 @@ If you are using a texture you can select that texture and set a tint to modify 
 ## Metallic
 In the metallic category you can switch if the material is metallic or not by adjusting the "Metallic" parameter. Alternatively you can set a texture if "Use Metallic Texture" is enabled.
 
-0 = not metallic
-1 = metallic
+- 0 for not metallic
+- 1 for metallic
 
 The "Metallic Color Modulation Strength" parameter will control how strong certain parts of the mesh get darkened to give a more metallic appearence. This only takes effect if the corresponding part of the material is metallic.
 
