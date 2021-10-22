@@ -45,7 +45,7 @@ Here you can adjust the scale of the highlight and rimlight in proportion to the
 
 Instead of using the sliders you may also set texture for each of the size scales if the corresponding switch is enabled.
 
-This category does not take affect if "Use Specular and Roughness Inputs" in [Conversion](#conversion) is enabled.
+This category does will not appear if "Use Specular and Roughness Inputs" in [Conversion](#conversion) is enabled.
 
 ## Emissive Color
 Using the switch at the top of the  category you can switch between using a static color or using a texture for the material's emissive oclor.
@@ -62,5 +62,22 @@ You can specify which parts of the mesh will be hidden by enabling the "Enable O
 
 If you are using a gradient instead of a black and white mask, and want to determine the threshold below which the material will turn invisible, head to the general category in the instance's detail panel and under Material Property Overrides, change the Opacity Mask Clip Value to your required value.
 
+## Pattern
+In this category you can select a texture that will define what pattern gets applied to the shadows, highlights and rimlights of the material. To use the default patterns shipped with SRS, use the textures with the prefix "T_SRS_P_". This texture will be mapped onto the object such that the texture always faces to the camera (see SRS_CameraAlignedTexture).
+
+Additionally, you can specify a scale and a rotation for the pattern texture.
+
+## Displacement
+Here you can specify the displacement map and the strength of the displacement. Use strength 0 or a black texture to disable displacement.
+You can adjust the resolution of the displacement by adjusting the "Tessellation Multiplier"-parameter.
+
+## Texture Mapping
+This category allows you to control the mapping of all textures except the pattern texture.
+
+Under the Scale / Offset Vector, you can specify the Scale on the horizontal and vertical axis of the texture in the first two channels, and the offset along the same axis in the last two channels. Under Texture Rotation Angle you can specify how the texture gets rotated in degrees.
+
 ## Conversion
+If you have a set of conventional textures for your material, you may convert those roughness and specular textures to replace the rimlight and highlight size textures.
+
+To do this, enable the parameter "Use Specular and Roughness Inputs" and select your textures in the new parameters below. Enabling this will disable the [Highlight and Rimlight](#highlight__rimlight) category.
 ---
