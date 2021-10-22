@@ -76,11 +76,11 @@ Here you can specify the displacement map and the strength of the displacement. 
 You can adjust the resolution of the displacement by adjusting the "Tessellation Multiplier"-parameter.
 
 ## Texture Mapping
-This category allows you to control the mapping of all textures except the pattern texture.
+This category allows you to control the mapping of all textures except the pattern texture, which can be controlled individually in the [Pattern category](#pattern).
 
 Under the Scale / Offset Vector, you can specify the Scale on the horizontal and vertical axis of the texture in the first two channels, and the offset along the same axis in the last two channels. Under Texture Rotation Angle you can specify how the texture gets rotated in degrees.
 
 ## Conversion
 If you have a set of conventional textures for your material, you may convert those roughness and specular textures to replace the rimlight and highlight size textures.
 
-To do this, enable the parameter "Use Specular and Roughness Inputs" and select your textures in the new parameters below. Enabling this will disable the [Highlight / Rimlight](#highlight--rimlight) category.
+To do this, enable the parameter "Use Specular and Roughness Inputs" and select your textures in the new parameters below. Enabling this will disable the [Highlight / Rimlight category](#highlight--rimlight).
