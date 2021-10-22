@@ -80,4 +80,5 @@ Under the Scale / Offset Vector, you can specify the Scale on the horizontal and
 If you have a set of conventional textures for your material, you may convert those roughness and specular textures to replace the rimlight and highlight size textures.
 
 To do this, enable the parameter "Use Specular and Roughness Inputs" and select your textures in the new parameters below. Enabling this will disable the [Highlight / Rimlight](#highlight--rimlight) category.
+
 ---
