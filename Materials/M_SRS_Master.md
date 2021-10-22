@@ -55,6 +55,10 @@ If you are using a texture you can select that texture and set a tint to modify 
 
 When using emissive color, be aware, that when the emissive color is brighter than black (0,0,0) the emissive parts of where the material is applied will no longer be able to receive colored lights and the shadows on the emissive parts will become smaller.
 
+## Normals
+Select a texture to use as a normal map in the "Normal Texture"-Parameter and control its strength with the "Normal Strength"-Parameter.
+Using either the default "FlatNormal"-Texture or setting the strength to 0 will disable normal maps from taking effect.
+
 ## Opacity Mask
 You can specify which parts of the mesh will be hidden by enabling the "Enable Opacity Mask" parameter and selecting a texture in the "Opacity Mask Texture" parameter.
 - 0 (black) for hidden parts
