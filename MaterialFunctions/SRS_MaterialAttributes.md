@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M_SRS_Master 
+title: SRS_MaterialAttributes
 parent: Material Functions
 nav_order: 10
 ---
